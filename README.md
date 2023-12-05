@@ -3,7 +3,7 @@
 
 👩‍💻 Projeto criado para a Aula 01 da Jornada AI - EBAC.
 
-[Ver projeto]([https://euingridsouza.github.io/desafio-github/#](https://euingridsouza.github.io/Jornada-AI-EBAC-aula01/))
+[Ver projeto](https://euingridsouza.github.io/Jornada-AI-EBAC-aula01/)
 
 
 ## 🎯Objetivo
@@ -12,10 +12,11 @@ Este projeto teve como objetivo desenvolver um arquivo index.html, como o conte�
 
 
 ## 🔗 Links
-Link do projeto: 
+Link dos projetos da Jornada AI: 
 
 AULA 01
 https://euingridsouza.github.io/Jornada-AI-EBAC-aula01/
+
 
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ingrid-coelho-de-abreu-de-souza?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
